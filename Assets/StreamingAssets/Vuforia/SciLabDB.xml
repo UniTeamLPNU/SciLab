@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Prism" size="10.000000 13.986255" />
+    <ImageTarget name="Mirror" size="10.000000 14.003436" />
+    <ImageTarget name="Laser" size="10.000000 13.961938" />
+    <ImageTarget name="Resistor" size="10.000000 13.986255" />
+    <ImageTarget name="Light_bulb" size="10.000000 13.989899" />
+    <ImageTarget name="Battery" size="10.000000 13.934708" />
+    <ImageTarget name="Neptune" size="10.000000 14.000000" />
+    <ImageTarget name="Uranus" size="10.000000 13.951890" />
+    <ImageTarget name="Saturn" size="10.000000 14.125000" />
+    <ImageTarget name="Jupiter" size="10.000000 13.955857" />
+    <ImageTarget name="Mars" size="10.000000 13.893806" />
+    <ImageTarget name="Earth" size="10.000000 14.024179" />
+    <ImageTarget name="Venus" size="10.000000 13.894558" />
+    <ImageTarget name="Mercury" size="10.000000 13.942471" />
+    <ImageTarget name="Sun" size="10.000000 13.945579" />
+    <ImageTarget name="Fe" size="10.000000 13.925550" />
+    <ImageTarget name="H2SO4" size="10.000000 13.979417" />
+    <ImageTarget name="CO2" size="10.000000 13.925926" />
+    <ImageTarget name="HCl" size="10.000000 13.948052" />
+    <ImageTarget name="Oxygen" size="10.000000 13.978102" />
+    <ImageTarget name="Hidrogen" size="10.000000 13.962264" />
+    <ImageTarget name="photo_2019-04-18_23-04-46" size="10.000000 13.927958" />
+    <ImageTarget name="Astronaut_scaled" size="0.120650 0.208395" />
+  </Tracking>
+</QCARConfig>

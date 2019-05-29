@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 23c8fecf17288ca4ea1745a857769f86
+  - enabled: 1
+    path: Assets/Scenes/Astronomy.unity
+    guid: 3482caf534494034d80f46a12b0afc88
+  - enabled: 1
+    path: Assets/Scenes/Chemistry.unity
+    guid: 0dbbf8a60a97a9f479335f050e4afe2e
+  - enabled: 1
+    path: Assets/Scenes/Electricity.unity
+    guid: e7152b83fd7115d4b81e6caf2a5b21f2
+  - enabled: 1
+    path: Assets/Scenes/Optics.unity
+    guid: f943f3e3db303164799472fe3e7961ed
+  m_configObjects: {}
